@@ -12,8 +12,8 @@ package br.univel;
 public class Principal {
 	
 	public static void main(String[] args) {
-		System.out.println("Olá Mundo!");
-		System.out.println("é nois");
+		System.out.println("Hello world!");
+		System.out.println("Its we");
 	}
 
 }
